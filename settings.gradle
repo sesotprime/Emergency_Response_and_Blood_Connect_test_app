@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name='Emergency Response and Blood Connect app'

@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Emergency Response and Blood Connect app</string>
+    <string name="Individual">Individual</string>
+    <string name="Facility">Facility</string>
+    <string name="last_name">Last Name</string>
+    <string name="first_name">First Name</string>
+    <string name="email_address">Email Address</string>
+    <string name="Password">Password</string>
+    <string name="emergency_contact1">Emergency Contact 1</string>
+    <string name="emergency_contact2">Emergency Contact 2</string>
+    <string name="date_of_birth">Date of Birth</string>
+    <string name="user_address">Address</string>
+    <string name="Submit">Submit</string>
+    <string name="title_activity_user_login">Sign in</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+</resources>
